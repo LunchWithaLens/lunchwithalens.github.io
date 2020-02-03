@@ -6,19 +6,19 @@
 # https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
 # https://learnxinyminutes.com/docs/yaml/
 
-title: Brian Smith - Data Science Journey!
+title: Brian Smith - Data Science Journey
 description: I have been playing around with data stuff for a while - this blog documents that journey, looking back and also running live with the 2020 fast.ai course
 github_username: lunchwithalens
 
 # Email and twitter are optional:
-email: 
-twitter_username:@lunchwithalens
+email: brian@lunchwithalens
+twitter_username: @lunchwithalens
 
 # Set this to true to get LaTeX math equation support
 use_math: true
 
 # Add your Google Analytics ID here if you have one and want to use it
-google_analytics:157550685
+google_analytics: 157550685
 
 # Everything below here can be ignored, unless you want to change the theme entirely
 theme: minima
