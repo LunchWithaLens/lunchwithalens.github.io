@@ -6,8 +6,8 @@
 # https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
 # https://learnxinyminutes.com/docs/yaml/
 
-title: Brian Smith's Data Science Journey!
-description: I've been playing around with data stuff for a while - this blog documents that journey, looking back and also running live with the 2020 fast.ai course
+title: Brian Smith - Data Science Journey!
+description: I have been playing around with data stuff for a while - this blog documents that journey, looking back and also running live with the 2020 fast.ai course
 github_username: lunchwithalens
 
 # Email and twitter are optional:
