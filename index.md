@@ -6,4 +6,4 @@ This blog is powered by the fast_template - see https://www.fast.ai/2020/01/20/b
 
 ## Brian Smith's Data Science journey
 
-And you can include links, like this [link to fast.ai](https://www.fast.ai). Posts will appear after this file. 
+
