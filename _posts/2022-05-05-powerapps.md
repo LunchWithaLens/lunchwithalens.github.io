@@ -1,4 +1,4 @@
-# How to get a PowerApp to use a Huggungface Spaces API
+# How to get a PowerApp to use a Huggingface Spaces API
 
 I'd played around with PowerApps and Azure functions so when I had a working Huggingface Spaces application and knew there was also an API I just had to give it a go. It was pretty straightforward, and I've also shared the zip file of the PowerApps solution and the swagger file of the custom connector that needs to be created if you import the solution.  Be aware that custom connectors are defined as *Premium* but it is easy enough to just add a trial to your tenant to give it a try.  You can also sign up for a free tenant with the [Microsoft 365 Developer Program](https://developer.microsoft.com/en-us/microsoft-365/dev-program) if you don't already have access to a tenant.<br>
 If you don't want to read any further, but just get the files and start hacking then head over to my Huggingface Space - [Which Raptor?](https://huggingface.co/spaces/LunchWithaLens/whichraptor). I haven't used hf much, but I assume as the Space is public you can get the files.<br>
