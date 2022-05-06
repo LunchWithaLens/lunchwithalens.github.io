@@ -25,6 +25,6 @@ Then the code in the Answer label's Text property, that is made visible in that 
 
 Once this is saved and published, you can then add the Power Apps mobile app to your phone and if you sign in to the same tenant you should see you app. (You may need to change the settings to see non-production apps) And you then have a mobile raptor identifier - or whatever you want to build!<br>
 
-![The mobile app - and a good ID of an Osprey](/images/mobilewhichraptor.jpg "An Osprey Identied! (I must fix that 'a'")<br>
+![The mobile app - and a good ID of an Osprey](/images/mobilewhichraptor.jpg "An Osprey Identied! (I must fix that 'a')")<br>
 
 The result set also returns the top three highest ranking predictions with the confidence levels - once I get my head around how to pull this out of the json I'll add these and maybe a chart. Enjoy!
